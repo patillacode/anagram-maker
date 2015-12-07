@@ -1,0 +1,7 @@
+* argparse (phrase and language)
+* docstrings
+* setup.py (+ bumpversion)
+* output by length or alphabetically
+* loading animation
+* remove duplicates (WTF!)
+* remove prints
